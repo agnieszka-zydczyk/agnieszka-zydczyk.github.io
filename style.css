@@ -1,5 +1,5 @@
 html {
-    height: 640px;
+    height: 100%;
     /*display: flex;*/
     /*align-items: center;*/
     /*justify-content: center;*/
@@ -44,4 +44,8 @@ header {
 .menu-list li a:hover {
     background-color: #666;
     color: #fff;
+}
+
+li:not(:last-child){
+    border-bottom: 2px #f8f8f8 solid;
 }
