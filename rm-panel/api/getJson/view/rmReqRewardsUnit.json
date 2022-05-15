@@ -1,0 +1,62 @@
+{
+  "possiblePersonalRewards": [
+    {
+      "rewardName": "zestaw klocków Lego",
+      "ageCategoryMin": 1,
+      "ageCategoryMax": 2
+    },
+    {
+      "rewardName": "zestaw kredek Bambino",
+      "ageCategoryMin": 2,
+      "ageCategoryMax": 2
+    },
+    {
+      "rewardName": "karta podarunkowa",
+      "ageCategoryMin": 2,
+      "ageCategoryMax": 4
+    }
+  ],
+  "clazzes": [
+    {
+      "name": "2b",
+      "validFrom": "24-03-2023",
+      "validTo": "27-03-2024",
+      "trophy": "diamond",
+      "personalRewardCount": [
+        2,
+        3,
+        1
+      ],
+      "groupReward": "Wycieczka do Poznania"
+    },
+    {
+      "name": "3a",
+      "validFrom": "24-03-2023",
+      "validTo": "27-03-2024",
+      "trophy": "gold",
+      "personalRewardCount": [
+        2,
+        3,
+        1
+      ],
+      "groupReward": "Roczny zapas przypraw Knorr dla całej klasy"
+    }
+  ],
+  "possibleGroupRewards": [
+    {
+      "name": "Wycieczka do Poznania",
+      "validFrom": "24-03-2023",
+      "validTo": "27-03-2024"
+    },
+    {
+      "name": "Wycieczka do zoo",
+      "validFrom": "24-03-2023",
+      "validTo": "27-03-2024"
+    },
+    {
+      "name": "Roczny zapas przypraw Knorr dla całej klasy",
+      "validFrom": "24-03-2023",
+      "validTo": "27-03-2024"
+    }
+  ]
+}

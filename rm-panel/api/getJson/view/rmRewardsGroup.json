@@ -1,0 +1,29 @@
+{
+  "rewards": [
+    {
+      "rewardName": "Wycieczka do Nibylandii",
+      "priority": 1,
+      "ageCategoryMin": 0,
+      "ageCategoryMax": 2,
+      "validFrom": "23-05-2022",
+      "validTo": "23-06-2022",
+      "canEdit": true,
+      "id": 2,
+      "totalCount": 0,
+      "remainingCount": 4
+    },
+    {
+      "rewardName": "Wycieczka do zoo",
+      "priority": 2,
+      "ageCategoryMin": 1,
+      "ageCategoryMax": 4,
+      "validFrom": "23-05-2022",
+      "validTo": "23-06-2022",
+      "canEdit": true,
+      "id": 2,
+      "totalCount": 3,
+      "remainingCount": 1
+    }
+  ]
+}
+

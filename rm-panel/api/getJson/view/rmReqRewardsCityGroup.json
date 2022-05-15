@@ -1,0 +1,152 @@
+{
+  "possibleGroupRewards": [
+    {
+      "name": "Wycieczka do Nibylandii",
+      "validFrom": "02-06-2022",
+      "validTo": "10-09-2022"
+    },
+    {
+      "name": "Wycieczka do zoo w Krakowie",
+      "validFrom": "23-05-2022",
+      "validTo": "10-09-2022"
+    }
+  ],
+  "units": [
+    [
+      {
+        "name": "Samorządowe Przedszkole nr 3",
+        "trophy": "gold",
+        "district": "Górna Rzeka",
+        "address": "Zbieraczy 64c",
+        "groupRewardCount": [
+          11,
+          23
+        ],
+        "clazzes": [
+          {
+            "name": "Mrówki",
+            "groupRewardName": "Wycieczka do Nibylandii",
+            "groupRewardCount": 2
+          },
+          {
+            "name": "Żabki",
+            "groupRewardName": "Wycieczka na Stadion Lecha Poznan",
+            "groupRewardCount": 22
+          }
+        ]
+      },
+      {
+        "name": "Niepubliczne Przedszkole Integracyjne",
+        "trophy": "silver",
+        "district": "Dolny Brzeg",
+        "address": "ul. Polna 17",
+        "groupRewardCount": [
+          20,
+          15
+        ],
+        "clazzes": [
+          {
+            "name": "Słoneczka",
+            "groupRewardName": "bilety do kina",
+            "groupRewardCount": 24
+          },
+          {
+            "name": "Smerfusie i Sasetki",
+            "groupRewardName": "bilety do zoo",
+            "groupRewardCount": 22
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Szkoła Podstawowa im. Kubusia Puchatka",
+        "trophy": "diamond",
+        "district": "Bronowice",
+        "address": "Fiołkowa 1",
+        "groupRewardCount": [
+          2,
+          1
+        ],
+        "clazzes": [
+          {
+            "name": "2b",
+            "groupRewardName": "wycieczka do Nibylandii",
+            "groupRewardCount": 1
+          },
+          {
+            "name": "1a",
+            "groupRewardName": "wycieczka do Fabryki Czekolady im. W.W.Honka",
+            "groupRewardCount": 1
+          }
+        ]
+      },
+      {
+        "name": "Szkoła Podstawowa im. Smerfa Marudy",
+        "trophy": "platinum",
+        "district": "Malutkie Małe",
+        "address": "Kolejowa 1",
+        "groupRewardCount": [
+          3,
+          4
+        ],
+        "clazzes": [
+          {
+            "name": "2g",
+            "groupRewardName": "zapasy w klockach Lego",
+            "groupRewardCount": 1
+          },
+          {
+            "name": "1a",
+            "groupRewardName": "deser w kawiarnii Magdy Gessler",
+            "groupRewardCount": 1
+          },
+          {
+            "name": "1b",
+            "groupRewardName": "gorące kubki pomidorowej",
+            "groupRewardCount": 34
+          }
+        ]
+      },
+      {
+        "name": "Szkoła Podstawowa im. Gumisiów",
+        "trophy": "bronze",
+        "district": "Makowe Pola",
+        "address": "Stokrotna 11",
+        "groupRewardCount": [
+          2,
+          1
+        ],
+        "clazzes": [
+          {
+            "name": "2b",
+            "groupRewardName": "wycieczka do Nibylandii",
+            "groupRewardCount": 1
+          },
+          {
+            "name": "1a",
+            "groupRewardName": "wycieczka do Fabryki Czekolady im. W.W.Honka",
+            "groupRewardCount": 1
+          }
+        ]
+      },
+      {
+        "name": "Szkoła Podstawowa im. Niczego",
+        "trophy": "gold",
+        "district": "Gumisiowe Wzgórza",
+        "address": "Naftaliny Naftalskiej 345s",
+        "groupRewardCount": [
+          2,
+          1
+        ],
+        "clazzes": [
+          {
+            "name": "3b",
+            "groupRewardName": "wycieczka w Nieznane",
+            "groupRewardCount": 1
+          }
+        ]
+      }
+    ]
+  ]
+}

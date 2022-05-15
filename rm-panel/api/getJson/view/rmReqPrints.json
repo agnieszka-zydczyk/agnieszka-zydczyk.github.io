@@ -1,0 +1,94 @@
+{
+  "printMaterialTypes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "units": [
+    [
+      {
+        "name": "Samorządowe Przedszkole nr 3",
+        "district": "Górna Rzeka",
+        "address": "Zbieraczy 64c",
+        "pmtCounts": [
+          1,
+          0,
+          0,
+          0,
+          4,
+          5
+        ]
+      },
+      {
+        "name": "Niepubliczne Przedszkole Integracyjne",
+        "district": "Dolny Brzeg",
+        "address": "ul. Polna 17",
+        "pmtCounts": [
+          1,
+          4,
+          2,
+          1,
+          2,
+          1
+        ]
+      }
+    ],
+    [
+      {
+        "name": "Szkoła Podstawowa im. Kubusia Puchatka",
+        "district": "Bronowice",
+        "address": "Fiołkowa 1",
+        "pmtCounts": [
+          2,
+          4,
+          3,
+          1,
+          2,
+          10
+        ]
+      },
+      {
+        "name": "Szkoła Podstawowa im. Smerfa Marudy",
+        "district": "Malutkie Małe",
+        "address": "Kolejowa 1",
+        "pmtCounts": [
+          1,
+          4,
+          20,
+          100,
+          25,
+          689
+        ]
+      },
+      {
+        "name": "Szkoła Podstawowa im. Gumisiów",
+        "district": "Makowe Pola",
+        "address": "Stokrotna 11",
+        "pmtCounts": [
+          1,
+          4,
+          20,
+          1000,
+          2,
+          186
+        ]
+      },
+      {
+        "name": "Szkoła Podstawowa im. Niczego",
+        "district": "Gumisiowe Wzgórza",
+        "address": "Naftaliny Naftalskiej 345s",
+        "pmtCounts": [
+          1,
+          4,
+          20,
+          1200,
+          20,
+          200
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "files": [
+    {
+      "name": "Mapa Kampanii",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Regulamin Kampanii",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Regulamin Nagród",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Przewodnik dla Koordynatora",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Przewodnik dla Koordynatora Miejskiego",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Przewodnik dla Dyrektora Placówki",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Przewodnik dla Nauczyciela",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Prognozowane wyniki kampanii",
+      "canDeleteFile": false
+    }
+  ]
+}

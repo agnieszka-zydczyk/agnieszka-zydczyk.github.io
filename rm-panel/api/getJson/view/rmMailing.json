@@ -1,0 +1,34 @@
+{
+  "canAttach": true,
+  "cityCoords": [
+    {
+      "name": "Alicja Nowak",
+      "email": "a.nowak@trawa.com",
+      "role": "ROLE_ADMIN"
+    }
+  ],
+  "unitCoords": [
+    {
+      "name": "Sebastian Kolo",
+      "email": "sebakolo@sp.com",
+      "manages": "SP nr 7 w Trawie"
+    }
+  ],
+  "journalKeepers": [
+    {
+      "name": "Julia Juliowska",
+      "email": "j.juliowska@sp.com",
+      "manages": "Klasa 1b"
+    },
+    {
+      "name": "Karol Strassburger",
+      "email": "ks.burger@sp.com",
+      "manages": "Klasa 3a"
+    },
+    {
+      "name": "Gustawa Mniejsza",
+      "email": "gu.mniejsza@sp.com",
+      "manages": "Klasa 2c"
+    }
+  ]
+}

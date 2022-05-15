@@ -1,0 +1,155 @@
+{
+  "possiblePersonalRewards": [
+    {
+      "name": "Wycieczka do Madrytu"
+    },
+    {
+      "name": "Wycieczka do Zoo w Krakowie"
+    },
+    {
+      "name": "Zestaw zabawek kreatywnych"
+    },
+    {
+      "name": "Zestaw przyborow rysunkowych"
+    },
+    {
+      "name": "Zew gumowych kaczuszek"
+    }
+  ],
+  "units": [
+    [
+      {
+        "name": "Przedszkole Niepubliczne nr 3",
+        "trophy": "diamond",
+        "district": "Zielona Rzeka",
+        "address": "Zbieraczy 63c",
+        "personalRewardCount": [
+          1,
+          4,
+          2,
+          2,
+          12
+        ]
+      },
+      {
+        "name": "Przedszkole Integracyjne Pluszaki",
+        "trophy": "platinum",
+        "district": "Kacze Doliny",
+        "address": "Zielona 45",
+        "personalRewardCount": [
+          1,
+          3,
+          4,
+          6,
+          11
+        ]
+      },
+      {
+        "name": "Publiczne Przedszkole im. Kubusia Puchatka",
+        "trophy": "gold",
+        "district": "Hamaki Dolne",
+        "address": "Jasminowa 34",
+        "personalRewardCount": [
+          0,
+          3,
+          5,
+          7,
+          9
+        ]
+      },
+      {
+        "name": "Publiczne Przedszkole nr 4",
+        "trophy": "silver",
+        "district": "Hamaki Gorne",
+        "address": "Konwaliowa 12",
+        "personalRewardCount": [
+          0,
+          0,
+          0,
+          7,
+          13
+        ]
+      },
+      {
+        "name": "Niebieski Punkt Przedszkolny",
+        "trophy": "bronze",
+        "district": "Kowale",
+        "address": "Malinowa 32",
+        "personalRewardCount": [
+          0,
+          0,
+          0,
+          0,
+          14
+        ]
+      }
+    ],
+    [
+      {
+        "name": " Niepubliczna Szkoła Społeczna im. Feniksa Popielnego",
+        "trophy": "diamond",
+        "district": "Pacanowo Mniejsze",
+        "address": "Kowalowej 15",
+        "personalRewardCount": [
+          2,
+          6,
+          3,
+          12,
+          20
+        ]
+      },
+      {
+        "name": "Publiczna Szkoła Podstawowa nr 34",
+        "trophy": "platinum",
+        "district": "Hamaki Dolne",
+        "address": "Dworcowa 13",
+        "personalRewardCount": [
+          2,
+          2,
+          4,
+          23,
+          45
+        ]
+      },
+      {
+        "name": "Szkoła Podstawowa im. Drugiej Brygady Pomocniczej",
+        "trophy": "gold",
+        "district": "Pacanowo Mniejsze",
+        "address": "Butelkowa 9",
+        "personalRewardCount": [
+          0,
+          3,
+          7,
+          14,
+          56
+        ]
+      },
+      {
+        "name": "Samorządowa Szkoła Podstawowa nr 2",
+        "trophy": "silver",
+        "district": "Hamaki Gorne",
+        "address": "Konwaliowa 134",
+        "personalRewardCount": [
+          0,
+          0,
+          2,
+          12,
+          70
+        ]
+      },
+      {
+        "name": "Niepubliczna Szkoła Podstawowa z Odziałem Integracyjnym",
+        "trophy": "bronze",
+        "district": "Zapole",
+        "address": "Leśna 12",
+        "personalRewardCount": [
+          0,
+          0,
+          23,
+          22,
+          32
+        ]
+      }
+    ]
+  ]
+}

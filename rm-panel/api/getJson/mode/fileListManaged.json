@@ -1,0 +1,38 @@
+{
+  "files": [
+    {
+      "name": "Mapa Kampanii",
+      "canDeleteFile": false,
+      "meta": {
+        "accessControl": {
+          "requiredRole": "ROLE_ADMIN",
+          "context": {
+            "a": {
+              "name": "Anna Kowalska"
+            },
+            "b": {
+              "name": "Bart Bratkowski"
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "Regulamin Nagród",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Przewodnik dla Koordynatora",
+      "canDeleteFile": false
+    },
+    {
+      "name": "Prognozowane wyniki kampanii",
+      "meta": {
+        "accessControl": {
+          "requiredRole": "ROLE_JOURNAL_KEEPER"
+        },
+        "canDeleteFile": false
+      }
+    }
+  ]
+}

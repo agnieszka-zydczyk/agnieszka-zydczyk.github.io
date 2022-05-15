@@ -1,0 +1,9 @@
+{
+  "username": "kaczka1",
+  "email": "joannakaczka@psp.com",
+  "name": "Joanna Kaczka",
+  "phone": "444666444",
+  "userRole": "ROLE_UNIT_PRINCIPAL",
+  "canRestrictToCurrentClazz": true,
+  "currentClazzId": null
+}

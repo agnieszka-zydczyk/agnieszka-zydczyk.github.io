@@ -1,0 +1,40 @@
+{
+  "campaign": {
+    "stage": 0,
+    "printMaterialTypes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "t12ns": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "minCruisesForPersonalReward": 10,
+  "threshold1": 0,
+  "threshold2": 0,
+  "cityName": "Marianow",
+  "coordUnitName": "Urząd Gminy Marianow",
+  "coordUnitStreet": "Kowalskiego 56",
+  "coordUnitCity": "Marianow",
+  "coordUnitZipCode": "34-456",
+  "coordUnitPhone": "123456789",
+  "coordUnitEmail": "marianow@marianow.pl",
+  "coord1": {
+    "name": "Marian Kowalski",
+    "phone": "453678879",
+    "email": "mariankowalski@marianow.pl"
+  },
+  "coord2": "",
+  "coord3": ""
+}

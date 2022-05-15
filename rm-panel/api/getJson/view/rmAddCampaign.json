@@ -1,0 +1,49 @@
+{
+  "campaignName": "",
+  "campaignDatesStr": [
+    "23-02-2022"
+  ],
+  "campaignEndDateStr": [
+    "23-05-2022"
+  ],
+  "t12nsPossible": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "t12ns": [
+    0,
+    1,
+    2,
+    6,
+    7
+  ],
+  "unitTypes": [
+    0,
+    1
+  ],
+  "unitTypesPossible": [
+    0,
+    1
+  ],
+  "journalThreshold": 30,
+  "unitJournalThreshold": 60,
+  "daysBackAllowed": 5,
+  "printMaterialTypesPossible": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "printMaterialTypes": [
+    1,
+    4
+  ]
+}

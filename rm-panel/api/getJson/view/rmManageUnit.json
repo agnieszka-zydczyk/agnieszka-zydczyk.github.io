@@ -1,0 +1,73 @@
+{
+  "campaignStageInvalid": true,
+  "campaign": {
+    "stage": 1,
+    "enabledDates": [
+      "21-02-2022"
+    ],
+    "campaignName": "MajowyMaj",
+    "unitTypes": [
+      1
+    ]
+  },
+  "city": {
+    "t12ns": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "forceDistrictInput": false
+  },
+  "canChangeUnitType": true,
+  "unitSubtypesPossible": [
+    1
+  ],
+  "unitStreet": "Kwiatowa 2",
+  "unitFullName": "Niepubliczna Szkoła Podstawowa nr 2 im. Misia Uszatka w Bytowie",
+  "unitName": "NSP nr 2 w Bytowie",
+  "unitSubtype": 1,
+  "unitCity": "Bytow",
+  "unitZipCode": "21-370",
+  "unitPhone": "567567999",
+  "unitEmail": "sp2@bytow.pl",
+  "coord1": {
+    "name": "Alicja Nowak",
+    "phone": "453678879",
+    "email": "a.nowak.sp2@bytow.pl"
+  },
+  "coord2": {
+    "name": "",
+    "phone": "",
+    "email": ""
+  },
+  "coord3": "",
+  "t12ns": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "declaredClazzes": 6,
+  "declaredKids": 126,
+  "declaredAdults": 7,
+  "unitType": 1,
+  "additionalFreeDatesValues": {
+    "": 2
+  },
+  "additionalFreeDatesStr": "02-05-2022, 30-06-2022",
+  "unitPrincipalName": "Katarzyna Bajeczna",
+  "agreements": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

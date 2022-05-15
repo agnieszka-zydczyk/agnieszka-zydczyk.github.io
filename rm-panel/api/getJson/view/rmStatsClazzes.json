@@ -1,0 +1,44 @@
+{
+  "clazzes": [
+    {
+      "name": "2b",
+      "trophy": "diamond",
+      "journalsOk": true,
+      "cruiseCount": 345,
+      "activeCount": 20,
+      "freqRatio": 0.70
+    },
+    {
+      "name": "3a",
+      "trophy": "platinum",
+      "journalsOk": true,
+      "cruiseCount": 150,
+      "activeCount": 14,
+      "freqRatio": 0.60
+    },
+    {
+      "name": "2a",
+      "trophy": "gold",
+      "journalsOk": true,
+      "cruiseCount": 134,
+      "activeCount": 13,
+      "freqRatio": 0.45
+    },
+    {
+      "name": "1d",
+      "trophy": "silver",
+      "journalsOk": true,
+      "cruiseCount": 100,
+      "activeCount": 5,
+      "freqRatio": 0.33
+    },
+    {
+      "name": "5f",
+      "trophy": "bronze",
+      "journalsOk": true,
+      "cruiseCount": 67,
+      "activeCount": 2,
+      "freqRatio": 0.23
+    }
+  ]
+}

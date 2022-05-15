@@ -1,0 +1,95 @@
+{
+  "acceptedTotal": {
+    "units": [
+      10,
+      20
+    ],
+    "kids": 2000,
+    "adults": 200,
+    "clazzes": 100
+  },
+  "units": [
+    [
+      {
+        "unitName": "Przedszkole Bajowe Bajki",
+        "unitDistrict": "fjgghg",
+        "unitId": 1,
+        "declaredAdults": 12,
+        "declaredKids": 40,
+        "declaredClazzes": 4,
+        "countAdults": 12,
+        "countKids": 40,
+        "countClazzes": 4,
+        "verdictPending": true,
+        "isRemovable": true
+      },
+      {
+        "unitName": "Przedszkole Samorządowe nr 5 w Gdyni",
+        "unitDistrict": "Gdynia Chylonia",
+        "unitId": 2,
+        "declaredAdults": 7,
+        "declaredKids": 50,
+        "declaredClazzes": 3,
+        "countAdults": 7,
+        "countKids": 50,
+        "countClazzes": 3,
+        "verdictPending": true,
+        "isRemovable": true
+      }
+    ],
+    [
+      {
+        "unitName": "Niepubliczna Szkoła Podstawowa nr 2 im. Misia Uszatka w Bytowie",
+        "unitDistrict": "Bytowo ",
+        "unitId": 1,
+        "declaredAdults": 7,
+        "declaredKids": 126,
+        "declaredClazzes": 6,
+        "countAdults": 5,
+        "countKids": 120,
+        "countClazzes": 5,
+        "verdictPending": true,
+        "isRemovable": true
+      },
+      {
+        "unitName": "PUbliczna Szkoła Podstawowa nr 7 w Gdansku",
+        "unitDistrict": "Stogi",
+        "unitId": 2,
+        "declaredAdults": 40,
+        "declaredKids": 520,
+        "declaredClazzes": 18,
+        "countAdults": 40,
+        "countKids": 520,
+        "countClazzes": 18,
+        "verdictPending": true,
+        "isRemovable": true
+      },
+      {
+        "unitName": "PUbliczna Szkoła Podstawowa nr 2 w Poznaniu",
+        "unitDistrict": "Poznan",
+        "unitId": 3,
+        "declaredAdults": 50,
+        "declaredKids": 400,
+        "declaredClazzes": 15,
+        "countAdults": 50,
+        "countKids": 399,
+        "countClazzes": 15,
+        "verdictPending": true,
+        "isRemovable": true
+      },
+      {
+        "unitName": "PUbliczna Szkoła Podstawowa nr 7 w Warszawie",
+        "unitDistrict": "Marki",
+        "unitId": 2,
+        "declaredAdults": 50,
+        "declaredKids": 500,
+        "declaredClazzes": 20,
+        "countAdults": 50,
+        "countKids": 500,
+        "countClazzes": 20,
+        "verdictPending": true,
+        "isRemovable": true
+      }
+    ]
+  ]
+}

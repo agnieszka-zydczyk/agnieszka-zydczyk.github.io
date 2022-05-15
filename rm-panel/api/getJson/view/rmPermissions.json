@@ -1,0 +1,78 @@
+{
+  "permissionType": "",
+  "userGroups": [
+    {
+      "list": [
+        {
+          "name": "Sebastian Kolo",
+          "email": "sebakolo@sp.com",
+          "manages": "SP nr 7 w Trawie",
+          "lastLogin": "21-03-2022",
+          "id": 1,
+          "canBeDeleted": false
+        }
+      ],
+      "type": "ROLE_UNIT_PRINCIPAL"
+    },
+    {
+      "list": [
+        {
+          "name": "Sabina Abak",
+          "email": "sabak@sp.com",
+          "role": "ROLE_JOURNAL_KEEPER",
+          "lastLogin": "21-03-2022",
+          "id": 1,
+          "canBeDeleted": false
+        },
+        {
+          "name": "Janina Kowalska",
+          "email": "jk@wp.pl",
+          "role": "ROLE_JOURNAL_KEEPER",
+          "lastLogin": "10-02-2022",
+          "id": 2,
+          "canBeDeleted": false
+        }
+      ],
+      "type": "ROLE_UNIT_COORD"
+    },
+    {
+      "list": [
+        {
+          "name": "Alina Alonowska",
+          "email": "aao@sp.com",
+          "manages": "klasa 1a",
+          "lastLogin": "20-03-2022",
+          "id": 1,
+          "canBeDeleted": false
+        },
+        {
+          "name": "Barbara Baranowska",
+          "email": "babran@wp.pl",
+          "manages": "klasa 2b",
+          "lastLogin": "09-02-2022",
+          "id": 2,
+          "canBeDeleted": false
+        },
+        {
+          "name": "Celina Cyjan",
+          "email": "ccyjan@wp.pl",
+          "manages": "klasa 3c",
+          "lastLogin": "20-03-2022",
+          "id": 3,
+          "canBeDeleted": false
+        },
+        {
+          "name": "Daniel Danielewski",
+          "email": "ddan@wp.pl",
+          "manages": "klasa 5e",
+          "lastLogin": "23-02-2022",
+          "id": 4,
+          "canBeDeleted": false
+        }
+      ],
+      "type": "ROLE_JOURNAL_KEEPER"
+    }
+  ],
+  "canInvite": true,
+  "canAttach": true
+}

@@ -1,0 +1,1 @@
+import{o as a,l as r,A as o,_ as l}from"./index.ef40ff0d.js";var n={props:{value:Boolean}};function s(e,c){return a(),r("i",{class:o(["vax-text-very-large fa",e.value?"fa-check vax-green":"fa-times vax-red"])},null,2)}var v=l(n,[["render",s]]);export{v};

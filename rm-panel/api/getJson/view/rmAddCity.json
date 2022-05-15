@@ -1,0 +1,32 @@
+{
+  "cityName": "",
+  "coordUnitName": "",
+  "coordUnitStreet": "",
+  "coordUnitCity": "",
+  "coordUnitZipCode": "",
+  "coordUnitPhone": "",
+  "coordUnitEmail": "",
+  "coord1": "",
+  "coord2": "",
+  "coord3": "",
+  "campaign": {
+    "printMaterialTypes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "t12ns": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

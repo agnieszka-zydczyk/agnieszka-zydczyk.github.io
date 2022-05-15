@@ -1,0 +1,146 @@
+{
+  "dates": [
+    {
+      "label": "1 maj",
+      "timeline": "past",
+      "editable": false
+    },
+    {
+      "label": "2 maj",
+      "timeline": "past",
+      "editable": false
+    },
+    {
+      "label": "3 maj",
+      "timeline": "past",
+      "editable": false
+    },
+    {
+      "label": "4 maj",
+      "timeline": "recent-past",
+      "editable": true
+    },
+    {
+      "label": "5 maj",
+      "timeline": "recent-past",
+      "editable": true
+    },
+    {
+      "label": "6 maj",
+      "timeline": "present",
+      "editable": true
+    },
+    {
+      "label": "7 maj",
+      "timeline": "future",
+      "editable": false
+    },
+    {
+      "label": "8 maj",
+      "timeline": "future",
+      "editable": false
+    },
+    {
+      "label": "1 maj",
+      "timeline": "past",
+      "editable": false
+    }
+  ],
+  "reward": {
+    "validFrom": "20-05-2020",
+    "validTo": "20-05-2022",
+    "name": "Wycieczka do Nibylandii"
+  },
+  "participants": [
+    {
+      "name": "Anna Annowska",
+      "reward": "klocki",
+      "cruises": [
+        0,
+        2,
+        2,
+        0,
+        1,
+        6,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Bartłomiej Bielas",
+      "reward": "cukier puder w kulkach",
+      "cruises": [
+        2,
+        5,
+        7,
+        4,
+        4,
+        0,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Daniela Danielewska",
+      "reward": "kolorowe kredki",
+      "cruises": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Karol Karolowski",
+      "reward": "maskotka lwa",
+      "cruises": [
+        1,
+        1,
+        1,
+        1,
+        8,
+        4,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Patryk Patrycki",
+      "reward": "kolorowe kredki",
+      "cruises": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Sara Siarzewska",
+      "reward": "gumowe kaczuszki",
+      "cruises": [
+        0,
+        1,
+        0,
+        2,
+        3,
+        0,
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}

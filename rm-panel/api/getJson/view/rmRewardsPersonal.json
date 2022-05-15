@@ -1,0 +1,53 @@
+{
+  "minCruises": 2,
+  "rewards": [
+    {
+      "rewardName": "gumowa kaczuszka",
+      "priority": 1,
+      "ageCategoryMin": 2,
+      "ageCategoryMax": 4,
+      "cruisesMissedMin": 1,
+      "cruisesMissedMax": 3,
+      "countByAge": [
+        30,
+        60,
+        40,
+        0,
+        10
+      ],
+      "canEdit": true,
+      "id": 23,
+      "totalCount": 140,
+      "remainingCount": 40
+    },
+    {
+      "rewardName": "kolorowe kredki",
+      "priority": 4,
+      "ageCategoryMin": 1,
+      "ageCategoryMax": 4,
+      "cruisesMissedMin": 2,
+      "cruisesMissedMax": 2,
+      "countByAge": [
+        30,
+        30,
+        5,
+        6,
+        1
+      ],
+      "canEdit": true,
+      "id": 23,
+      "totalCount": 72,
+      "remainingCount": 35
+    }
+  ],
+  "participantsByAgeRewardless": [
+    2,
+    2,
+    22,
+    0,
+    2
+  ],
+  "canAssignPersonalRewards": true,
+  "canResetPersonalRewardsAssignment": true,
+  "personalRewardsConfirmed": false
+}

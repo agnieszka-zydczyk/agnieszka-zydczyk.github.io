@@ -1,0 +1,68 @@
+{
+  "units": [
+    [
+      {
+        "name": "Samorządowe Przedszkole Gumisiowy Ogród",
+        "trophy": "diamond",
+        "journalsOk": true,
+        "bestClazz": "Grupa Słoneczka",
+        "freqRatioBestClazz": 0.9,
+        "cruiseCount": 2346,
+        "activeCount": 14,
+        "freqRatio": 0.56
+      },
+      {
+        "name": "Publiczne Przedszkole nr 2",
+        "trophy": "platinum",
+        "journalsOk": true,
+        "bestClazz": "Misiaki",
+        "freqRatioBestClazz": 0.7,
+        "cruiseCount": 236,
+        "activeCount": 5,
+        "freqRatio": 0.65
+      },
+      {
+        "name": "Przedszkole Integracyjne Orzeszki",
+        "trophy": "gold",
+        "journalsOk": true,
+        "bestClazz": "Kasztaniaki",
+        "freqRatioBestClazz": 0.4,
+        "cruiseCount": 67,
+        "activeCount": 5,
+        "freqRatio": 0.8
+      }
+    ],
+    [
+      {
+        "name": "Publiczna Szkoła Podstawowa im. Kubusia Uszatka",
+        "trophy": "gold",
+        "journalsOk": true,
+        "bestClazz": "2b",
+        "freqRatioBestClazz": 0.5,
+        "cruiseCount": 1256,
+        "activeCount": 78,
+        "freqRatio": 0.57
+      },
+      {
+        "name": "Niepubliczna Szkoła Podstawowa z oddziałami intengracyjnymi",
+        "trophy": "silver",
+        "journalsOk": true,
+        "bestClazz": "3d",
+        "freqRatioBestClazz": 0.78,
+        "cruiseCount": 456,
+        "activeCount": 12,
+        "freqRatio": 0.45
+      },
+      {
+        "name": "Publiczna Szkoła Podstawowa nr 45 im. Pieroga Ruskiego",
+        "trophy": "bronze",
+        "journalsOk": true,
+        "bestClazz": "3f",
+        "freqRatioBestClazz": 0.87,
+        "cruiseCount": 2453,
+        "activeCount": 78,
+        "freqRatio": 0.55
+      }
+    ]
+  ]
+}

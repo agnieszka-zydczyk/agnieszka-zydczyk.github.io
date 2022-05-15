@@ -1,0 +1,65 @@
+{
+  "canEdit": true,
+  "canSelectCruises": true,
+  "canRemove": true,
+  "canAdd": true,
+  "hasRewards": true,
+  "canSelectRewards": true,
+  "t12ns": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "dateNrs": [
+    0,
+    1,
+    2
+  ],
+  "dateCaptions": [
+    "1 maj",
+    "2 maj",
+    "3 maj"
+  ],
+  "declaredCount": 6,
+  "participants": [
+    {
+      "name": "Anna Annowska"
+    },
+    {
+      "name": "Bartłomiej Bielas"
+    },
+    {
+      "name": "Daniela Danielewska"
+    },
+    {
+      "name": "Karol Karolowski"
+    },
+    {
+      "name": "Patryk Patrycki"
+    },
+    {
+      "name": "Sara Siarzewska"
+    }
+  ],
+  "possibleGroupRewards": {
+    "names": [
+      "Wycieczka do Nibylandii",
+      "Wycieczka do zoo w Krakowie",
+      "Roczny Zapas Przypraw Kucharek",
+      "Zestaw Gumowych Kaczuszek"
+    ],
+    "ids": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  "unwantedGroupRewardId": 0,
+  "preferredGroupRewardId": 3
+}

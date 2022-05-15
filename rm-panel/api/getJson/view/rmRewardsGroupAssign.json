@@ -1,0 +1,148 @@
+{
+  "rewardsGroupAssign": [
+    {
+      "name": "Przedszkole Samorządowe nr 2",
+      "clazzes": [
+        {
+          "name": "Pluszaki",
+          "freqRatio": 0.67,
+          "amountRequired": 2,
+          "preferredGroupReward": "Wycieczka do Nibylandii",
+          "unwantedGroupReward": "Kolorowe Kredki",
+          "possibleRewardsNames": [
+            "Wycieczka do Nibylandii",
+            "Wycieczka do Zoo w Krakowie",
+            "Kolorowe Kredki",
+            "Roczny Zestaw Przypraw Kucharek",
+            "Zestaw Soku Gumisiowego"
+          ],
+          "suggestedReward": "Zestaw Soku Gumisiowego",
+          "canAssignReward": true
+        },
+        {
+          "name": "Bananowce",
+          "freqRatio": 0.45,
+          "amountRequired": 1,
+          "preferredGroupReward": "Wycieczka do Zoo w Krakowie",
+          "unwantedGroupReward": "Roczny Zestaw Przypraw Kucharek",
+          "possibleRewardsNames": [
+            "Wycieczka do Nibylandii",
+            "Wycieczka do Zoo w Krakowie",
+            "Kolorowe Kredki",
+            "Roczny Zestaw Przypraw Kucharek",
+            "Zestaw Soku Gumisiowego"
+          ],
+          "suggestedReward": "Zestaw Soku Gumisiowego",
+          "canAssignReward": true
+        }
+      ]
+    },
+    {
+      "name": "Niepubliczna Szkoła Podstawowa nr 2",
+      "clazzes": [
+        {
+          "name": "2b",
+          "freqRatio": 0.78,
+          "amountRequired": 2,
+          "preferredGroupReward": "Wycieczka do Zoo w Krakowie",
+          "unwantedGroupReward": "Wycieczka do Nibylandii",
+          "possibleRewardsNames": [
+            "Wycieczka do Nibylandii",
+            "Wycieczka do Zoo w Krakowie",
+            "Kolorowe Kredki",
+            "Roczny Zestaw Przypraw Kucharek",
+            "Zestaw Soku Gumisiowego"
+          ],
+          "suggestedReward": "Zestaw Soku Gumisiowego",
+          "canAssignReward": true
+        },
+        {
+          "name": "1d",
+          "freqRatio": 0.89,
+          "amountRequired": 1,
+          "preferredGroupReward": "Zestaw Soku Gumisiowego",
+          "unwantedGroupReward": "Kolorowe Kredki",
+          "possibleRewardsNames": [
+            "Zestaw Soku Gumisiowego",
+            "Wycieczka do Nibylandii",
+            "Wycieczka do Zoo w Krakowie",
+            "Kolorowe Kredki",
+            "Roczny Zestaw Przypraw Kucharek"
+          ],
+          "suggestedReward": "Zestaw Soku Gumisiowego",
+          "canAssignReward": true
+        },
+        {
+          "name": "4a",
+          "freqRatio": 0.70,
+          "amountRequired": 1,
+          "preferredGroupReward": "Kolorowe Kredki",
+          "unwantedGroupReward": "Zestaw Soku Gumisiowego",
+          "possibleRewardsNames": [
+            "Kolorowe Kredki",
+            "Wycieczka do Nibylandii",
+            "Wycieczka do Zoo w Krakowie",
+            "Roczny Zestaw Przypraw Kucharek",
+            "Zestaw Soku Gumisiowego"
+          ],
+          "suggestedReward": "Kolorowe Kredki",
+          "canAssignReward": true
+        }
+      ]
+    },
+    {
+      "name": "Szkoła Podstawowa nr 5",
+      "clazzes": [
+        {
+          "name": "3b",
+          "freqRatio": 0.57,
+          "amountRequired": 2,
+          "preferredGroupReward": "Wycieczka do Zoo w Krakowie",
+          "unwantedGroupReward": "Wycieczka do Nibylandii",
+          "possibleRewardsNames": [
+            "Wycieczka do Nibylandii",
+            "Wycieczka do Zoo w Krakowie",
+            "Kolorowe Kredki",
+            "Roczny Zestaw Przypraw Kucharek",
+            "Zestaw Soku Gumisiowego"
+          ],
+          "suggestedReward": "Zestaw Soku Gumisiowego",
+          "canAssignReward": true
+        },
+        {
+          "name": "1a",
+          "freqRatio": 0.80,
+          "amountRequired": 1,
+          "preferredGroupReward": "Zestaw Soku Gumisiowego",
+          "unwantedGroupReward": "Kolorowe Kredki",
+          "possibleRewardsNames": [
+            "Zestaw Soku Gumisiowego",
+            "Wycieczka do Nibylandii",
+            "Wycieczka do Zoo w Krakowie",
+            "Kolorowe Kredki",
+            "Roczny Zestaw Przypraw Kucharek"
+          ],
+          "suggestedReward": "Zestaw Soku Gumisiowego",
+          "canAssignReward": true
+        },
+        {
+          "name": "3b",
+          "freqRatio": 0.65,
+          "amountRequired": 1,
+          "preferredGroupReward": "Kolorowe Kredki",
+          "unwantedGroupReward": "Roczny Zestaw Przypraw Kucharek",
+          "possibleRewardsNames": [
+            "Kolorowe Kredki",
+            "Wycieczka do Nibylandii",
+            "Wycieczka do Zoo w Krakowie",
+            "Roczny Zestaw Przypraw Kucharek",
+            "Zestaw Soku Gumisiowego"
+          ],
+          "suggestedReward": "Kolorowe Kredki",
+          "canAssignReward": true
+        }
+      ]
+    }
+  ],
+  "canAssignAllRewards": true
+}

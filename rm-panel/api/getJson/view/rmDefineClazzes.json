@@ -1,0 +1,39 @@
+{
+  "canEdit": true,
+  "counts": [
+    [
+      {
+        "computedCountsKids": 120
+      }
+    ],
+    [
+      {
+        "computedCountsAdults": 5
+      }
+    ],
+    [
+      {
+        "computedCountsClazzes": 1
+      }
+    ]
+  ],
+  "declaredCounts": {
+    "kids": 120,
+    "adults": 5,
+    "clazzes": 1
+  },
+  "levelCounts": [
+    4,
+    1
+  ],
+  "maxOrdinal": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "unitType": [
+    0
+  ]
+}

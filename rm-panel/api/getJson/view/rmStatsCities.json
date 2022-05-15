@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "name": "Malutkie Małe",
+      "trophy": "diamond",
+      "journalsOk": true,
+      "cruiseCount": 500,
+      "activeCount": 20,
+      "freqRatio": 0.8
+    },
+    {
+      "name": "Warszawa",
+      "trophy": "platinum",
+      "journalsOk": true,
+      "cruiseCount": 3855686,
+      "activeCount": 2394,
+      "freqRatio": 0.6
+    },
+    {
+      "name": "Krakow",
+      "trophy": "gold",
+      "journalsOk": true,
+      "cruiseCount": 3855686,
+      "activeCount": 45,
+      "freqRatio": 0.4
+    },
+    {
+      "name": "Poznan",
+      "trophy": "non",
+      "journalsOk": false,
+      "cruiseCount": 384,
+      "activeCount": 4,
+      "freqRatio": 0.4
+    },
+    {
+      "name": "Gdynia",
+      "trophy": "silver",
+      "journalsOk": true,
+      "cruiseCount": 45566,
+      "activeCount": 475,
+      "freqRatio": 0.7
+    },
+    {
+      "name": "Gdansk",
+      "trophy": "bronze",
+      "journalsOk": true,
+      "cruiseCount": 4590,
+      "activeCount": 200,
+      "freqRatio": 0.68
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "stage": 1,
+  "canRemove": true,
+  "campaignName": "Majowy Maj",
+  "campaignDatesStr": "01-05-2022, 02-05-2022",
+  "campaignEndDateStr": "23-05-2022",
+  "t12nsPossible": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "t12ns": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "unitTypes": [
+    0,
+    1
+  ],
+  "unitTypesPossible": [
+    0,
+    1
+  ],
+  "journalThreshold": 100,
+  "unitJournalThreshold": 100,
+  "daysBackAllowed": 2,
+  "printMaterialTypesPossible": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "printMaterialTypes": [
+    1,
+    2,
+    3,
+    4
+  ]
+}
