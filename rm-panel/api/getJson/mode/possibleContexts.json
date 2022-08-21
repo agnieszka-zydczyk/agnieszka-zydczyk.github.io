@@ -29,22 +29,22 @@
   },
   "names": {
     "campaign": [
-      "MajowyMaj2020",
-      "MajowyMaj2021",
-      "MajowyMaj2022",
-      "KwietniowyMaj 2022",
-      "KwietniowyMaj 2021"
+      "Majowy Maj 2020",
+      "Majowy Maj 2021",
+      "Majowy Maj 2022",
+      "Kwietniowy Maj 2022",
+      "Kwietniowy Maj 2021"
     ],
     "city": [
-      "Gdansk",
+      "Gdańsk",
       "Gdynia",
       "Katowice",
-      "Krakow",
-      "Poznan",
+      "Kraków",
+      "Poznań",
       "Warszawa"
     ],
     "unit": [
-      "Przedszkole Publicze nr 1"
+      "Przedszkole Publiczne 1"
     ],
     "clazz": [
       "1a",
